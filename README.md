@@ -6,7 +6,7 @@
   <a href="https://github.com/sumeetpawar15">
     <img src="https://img.shields.io/badge/GitHub-sumeetpawar15-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/pawar-sumeet-b29118295">
+  <a href="https://www.linkedin.com/in/sumeet-pawar-b29118295/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
